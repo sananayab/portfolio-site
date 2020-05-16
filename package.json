@@ -1,7 +1,7 @@
 {
-  "name": "jeffery-john-portfolio-website",
+  "name": "developers-portfolio",
   "description": "Test package.json",
-  "homepage": "https://www.jefferyajohn.com",
+  "homepage": "https://jefferyajohn.com",
   "version": "0.1.0",
   "private": true,
   "author": {
