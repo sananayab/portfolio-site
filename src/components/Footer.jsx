@@ -10,17 +10,17 @@ const Footer = () => {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/hashirshoaeb"
+        href="https://github.com/jefferyjohn"
         aria-label="My GitHub"
       >
-        Hashir Shoaib
+        Jeffery John
       </a>{" "}
       using <i className="fab fa-react"></i>
       <p>
         <small className="text-muted">
           {" "}
-          Project code is open source. Feel free to fork and make your own
-          version.
+          This project is open source. Feel free to use the source code&nbsp; 
+          <a href="https://github.com/jefferyjohn/jefferyjohn.github.io" style={{color: "#707070"}}>here.</a>
         </small>
       </p>
     </footer>
@@ -28,3 +28,4 @@ const Footer = () => {
 };
 
 export default Footer;
+ 

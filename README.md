@@ -1,8 +1,6 @@
-Modifications to CNAME
-
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
+[![Site preview](/public/social-image.PNG)](https://jefferyjohn.github.io/)
 
 ## Technology Stack 
 
@@ -22,7 +20,7 @@ Project is open source.
 
 You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
 
-## Setup And Deployment 🔧
+## Setup And Deployment
 
 1. To Get Started, Fork this repository to your GitHub account:
 2. Clone the forked repo from your account using:
@@ -69,6 +67,6 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
      https://<your-username>.github.io/home
    ```
 
-## License 📄
+## License
 
 [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)

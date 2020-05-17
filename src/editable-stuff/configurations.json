@@ -5,7 +5,7 @@
   "FirstName": "Jeffery",
   "MiddleName": "",
   "LastName": "John",
-  "devDesc": "Test src ",
+  "devDesc": " | Programmer | Student | Maker | 3D Printing | Public Policy ",
   "icons": [
     {
       "id": 0,
@@ -14,19 +14,19 @@
       "style": "socialicons"
     },
     {
-      "id": 2,
+      "id": 1,
       "image": "fa-instagram",
       "url": "https://www.instagram.com/jefferyjohn_/",
       "style": "socialicons"
     },
     {
-      "id": 3,
+      "id": 2,
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/jefferyjohn/",
       "style": "socialicons"
     },
     {
-      "id": 4,
+      "id": 3,
       "image": "fa-twitter",
       "url": "https://www.twitter.com/jefferyjohn_/",
       "style": "socialicons"
@@ -37,7 +37,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "jefferyjohn_",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Test src about",
+  "aboutDescription": "Hello! My name is Jeffery John, and I am a 3rd year computer science and public policy student at the University of Georgia. I am testing my website right now.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "JefferyJohn",
