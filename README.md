@@ -2,7 +2,7 @@ Modifications to CNAME
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
+[![Site preview](/public/social-image.png)](https://jefferyjohn.github.io/)
 
 ## Technology Stack 
 
