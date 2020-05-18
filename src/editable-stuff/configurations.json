@@ -5,7 +5,7 @@
   "FirstName": "Jeffery",
   "MiddleName": "",
   "LastName": "John",
-  "devDesc": " | Programmer | Student | Maker | 3D Printing | Public Policy ",
+  "devDesc": " | Programmer | Student | Maker | Hacker | Developer ",
   "icons": [
     {
       "id": 0,
@@ -43,6 +43,7 @@
   "gitHubUsername": "JefferyJohn",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
+  "contactHeading": "Contact Me",
   "showNavigationbar": true,
   "showBlog": false
 }
