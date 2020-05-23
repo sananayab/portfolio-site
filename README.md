@@ -1,7 +1,4 @@
 <!-- PROJECT LOGO -->
-
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
-
 ## Technology Stack 
 
 Dependencies defined in package.json:
