@@ -5,42 +5,42 @@
   "FirstName": "Jeffery",
   "MiddleName": "",
   "LastName": "John",
-  "devDesc": " | Programmer | Student | Maker | Hacker | Developer ",
+  "devDesc": " | Programmer | planner | Maker | creator | Developer ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/jefferyjohn",
+      "url": "https://github.com/sananayab",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/jefferyjohn_/",
+      "url": "https://www.instagram.com/https://s.nayyab4/?hl=en/",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/jefferyjohn/",
+      "url": "https://www.linkedin.com/in/sana-nayyab-0b231b171/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-twitter",
-      "url": "https://www.twitter.com/jefferyjohn_/",
+      "url": "https://www.twitter.com/sana55959363_/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "jefferyjohn_",
+  "instaUsername": "s.nayyab4_",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hello! My name is Jeffery John, and I am a 3rd year computer science and public policy student at the University of Georgia. I hope to pursue additional studies in cyber security and law, with the goal of assisting in meaningful policy change.",
+  "aboutDescription": "Hello! My sana nayan, and I am Master in  Computer Science from VU and passionate learner from open source platforms. I hope to pursue additional studies in AI and data science , with the goal of assisting in meaningful technology advancement.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "jefferyjohn",
+  "gitHubUsername": "sananayab",
   "gitHubQuery": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "mediaHeading": "Featured Media",
