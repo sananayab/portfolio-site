@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.PNG)](https://jefferyjohn.github.io/)
+[![Site preview](/public/social-image.PNG)](https://sananayab.github.io/)
 
 ## Technology Stack 
 
